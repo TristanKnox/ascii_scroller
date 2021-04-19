@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ascii-scroller-app/static/css/main.ec47c2a0.chunk.css",
+    "main.js": "/ascii-scroller-app/static/js/main.1c2f9d99.chunk.js",
+    "main.js.map": "/ascii-scroller-app/static/js/main.1c2f9d99.chunk.js.map",
+    "runtime-main.js": "/ascii-scroller-app/static/js/runtime-main.701a5c1e.js",
+    "runtime-main.js.map": "/ascii-scroller-app/static/js/runtime-main.701a5c1e.js.map",
+    "static/js/2.50b0477f.chunk.js": "/ascii-scroller-app/static/js/2.50b0477f.chunk.js",
+    "static/js/2.50b0477f.chunk.js.map": "/ascii-scroller-app/static/js/2.50b0477f.chunk.js.map",
+    "static/js/3.b9320f5f.chunk.js": "/ascii-scroller-app/static/js/3.b9320f5f.chunk.js",
+    "static/js/3.b9320f5f.chunk.js.map": "/ascii-scroller-app/static/js/3.b9320f5f.chunk.js.map",
+    "index.html": "/ascii-scroller-app/index.html",
+    "static/css/main.ec47c2a0.chunk.css.map": "/ascii-scroller-app/static/css/main.ec47c2a0.chunk.css.map",
+    "static/js/2.50b0477f.chunk.js.LICENSE.txt": "/ascii-scroller-app/static/js/2.50b0477f.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/ascii-scroller-app/static/media/logo.6ce24c58.svg",
+    "static/media/turtle_tester.f2268a38.bin": "/ascii-scroller-app/static/media/turtle_tester.f2268a38.bin"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.701a5c1e.js",
+    "static/js/2.50b0477f.chunk.js",
+    "static/css/main.ec47c2a0.chunk.css",
+    "static/js/main.1c2f9d99.chunk.js"
+  ]
+}
