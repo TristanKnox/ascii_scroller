@@ -1,0 +1,21 @@
+.mainPage{
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    height: 100%;
+    background: #282c34;
+}
+
+.optionBar{
+    height: 50px;
+    background: darkslategrey;
+    margin: 15px;
+    border-radius: 20px;
+
+}
+
+.lineContainer{
+    background: black;
+    border-color: yellow;
+}
