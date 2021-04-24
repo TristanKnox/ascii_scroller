@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/ascii_scroller/static/css/main.ec47c2a0.chunk.css",
-    "main.js": "/ascii_scroller/static/js/main.1c2f9d99.chunk.js",
-    "main.js.map": "/ascii_scroller/static/js/main.1c2f9d99.chunk.js.map",
-    "runtime-main.js": "/ascii_scroller/static/js/runtime-main.e0e12afe.js",
-    "runtime-main.js.map": "/ascii_scroller/static/js/runtime-main.e0e12afe.js.map",
-    "static/js/2.50b0477f.chunk.js": "/ascii_scroller/static/js/2.50b0477f.chunk.js",
-    "static/js/2.50b0477f.chunk.js.map": "/ascii_scroller/static/js/2.50b0477f.chunk.js.map",
-    "static/js/3.b9320f5f.chunk.js": "/ascii_scroller/static/js/3.b9320f5f.chunk.js",
-    "static/js/3.b9320f5f.chunk.js.map": "/ascii_scroller/static/js/3.b9320f5f.chunk.js.map",
+    "main.css": "/ascii_scroller/static/css/main.385dbe5a.chunk.css",
+    "main.js": "/ascii_scroller/static/js/main.db83be6c.chunk.js",
+    "main.js.map": "/ascii_scroller/static/js/main.db83be6c.chunk.js.map",
+    "runtime-main.js": "/ascii_scroller/static/js/runtime-main.daac3dce.js",
+    "runtime-main.js.map": "/ascii_scroller/static/js/runtime-main.daac3dce.js.map",
+    "static/js/2.8afdc1eb.chunk.js": "/ascii_scroller/static/js/2.8afdc1eb.chunk.js",
+    "static/js/2.8afdc1eb.chunk.js.map": "/ascii_scroller/static/js/2.8afdc1eb.chunk.js.map",
+    "static/js/3.13b67c62.chunk.js": "/ascii_scroller/static/js/3.13b67c62.chunk.js",
+    "static/js/3.13b67c62.chunk.js.map": "/ascii_scroller/static/js/3.13b67c62.chunk.js.map",
     "index.html": "/ascii_scroller/index.html",
-    "static/css/main.ec47c2a0.chunk.css.map": "/ascii_scroller/static/css/main.ec47c2a0.chunk.css.map",
-    "static/js/2.50b0477f.chunk.js.LICENSE.txt": "/ascii_scroller/static/js/2.50b0477f.chunk.js.LICENSE.txt",
+    "static/css/main.385dbe5a.chunk.css.map": "/ascii_scroller/static/css/main.385dbe5a.chunk.css.map",
+    "static/js/2.8afdc1eb.chunk.js.LICENSE.txt": "/ascii_scroller/static/js/2.8afdc1eb.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/ascii_scroller/static/media/logo.6ce24c58.svg",
     "static/media/turtle_tester.f2268a38.bin": "/ascii_scroller/static/media/turtle_tester.f2268a38.bin"
   },
   "entrypoints": [
-    "static/js/runtime-main.e0e12afe.js",
-    "static/js/2.50b0477f.chunk.js",
-    "static/css/main.ec47c2a0.chunk.css",
-    "static/js/main.1c2f9d99.chunk.js"
+    "static/js/runtime-main.daac3dce.js",
+    "static/js/2.8afdc1eb.chunk.js",
+    "static/css/main.385dbe5a.chunk.css",
+    "static/js/main.db83be6c.chunk.js"
   ]
 }
